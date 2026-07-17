@@ -14,8 +14,3 @@ Developed as an initial proof-of-concept to evaluate the n8n platform, focusing 
 2. **Fetch:** Queries the **OpenWeatherMap API** for forecast data.
 3. **Transform:** Parses the JSON payload using JavaScript expressions (`Math.round`) to format metrics.
 4. **Deliver:** Dispatches a structured text digest via the **Telegram Bot API**.
-
-#### 🧠 Core Competencies
-* **API Orchestration:** Authenticated and connected multiple external services.
-* **JSON Data Mapping:** Extracted specific data fields from nested payloads using n8n object syntax.
-* **Data Transformation:** Processed and cleaned raw API outputs into structured user deliverables.
