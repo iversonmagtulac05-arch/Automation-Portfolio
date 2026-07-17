@@ -1,6 +1,6 @@
 ## 🚀 My n8n Automation Portfolio
 
-Welcome! This repository contains a collection of production-ready n8n workflows built to automate business processes, integrate APIs, and orchestrate AI systems.
+Welcome! This repository serves as a centralized showcase of production-ready automations engineered to optimize workflows, integrate distributed APIs, and streamline data pipelines.
 
 ### 🌦️ Project 1: n8n Proof-of-Concept (Weather Automation)
 
