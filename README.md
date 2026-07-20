@@ -4,7 +4,7 @@ Welcome! This repository serves as a centralized showcase of production-ready au
 
 ### 🌦️ Project 1: n8n Proof-of-Concept (Weather Automation)
 
-![Weather Bot Automation Pipeline](./imges/weather-bot-workflow.png)
+![Weather Bot Automation Pipeline](./imge/weather-bot-workflow.png)
 
 #### 📝 Project Background
 Developed as an initial proof-of-concept to evaluate the n8n platform, focusing on node-based architecture, multi-step data routing, and API integration.
